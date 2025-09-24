@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    admin@local:
+      email: admin@local
+      name: admin@local
+      role: admin
+      password: $2b$12$ScuQgJAg5M7s1JU/fznHUexdrQvMBMmVhFQ6.VkJUz0BTYe5xu01G
+    sognonromanus@gmail.com:
+      email: sognonromanus@gmail.com
+      name: sognonromanus@gmail.com
+      password: $2b$12$gKRVERj4.C3wSQ0FPOD3c.OUw3zH2Zn9WKmumbl0BKWmODQv1b.x6
+      role: auditor
+    admin:
+      email: admin
+      name: admin
+      password: $2b$12$rZuDeojJZLMm7sJZnKgi3eBUsc/yH1LNUA1P4UD.oPg9.Ko0uURMS
+      role: auditor

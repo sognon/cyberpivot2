@@ -1,0 +1,4 @@
+Domain,ID,Item,Contrôle,Level,Comment
+A.5,ACC-01,Politique de sécurité,Une politique de sécurité est définie.,Conforme,OK
+A.9,ACC-03,Gestion des accès,Accès au moindre privilège,Partiellement conforme,À compléter
+A.12,OPS-02,Journalisation,Journaliser les événements critiques,Non conforme,Pas de SIEM

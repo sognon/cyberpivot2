@@ -1,0 +1,12 @@
+cookie:
+  name: cyberpivot_auth
+  key: cyberpivot_demo_cookie
+  expiry_days: 1
+
+roles:
+  admin:
+    permissions: [manage_users, manage_norms, manage_projects, export_reports]
+  auditor:
+    permissions: [manage_projects, export_reports]
+  viewer:
+    permissions: [read_only]
